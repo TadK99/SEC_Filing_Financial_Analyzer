@@ -1,4 +1,3 @@
-[SEC_README (1).md](https://github.com/user-attachments/files/29816826/SEC_README.1.md)
 # SEC Filing Financial Analyzer
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TadK99/sec-filing-analyzer/blob/main/SEC_Filing_Financial_Analyzer.ipynb)
